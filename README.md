@@ -4,7 +4,7 @@ This repository contains the solution for the Telco Customer Churn assessment.
 
 It includes a data analysis, preprocessing notebook, a training pipeline, and a prediction API.
 
-🔗 Project Link: https://lnkd.in/gWrJpAFp
+🔗 Project Link: https://telecom-churn-prediction-fbfreehfcscdhpep.eastasia-01.azurewebsites.net/
 
 ---
 
